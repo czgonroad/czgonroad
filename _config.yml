@@ -78,6 +78,6 @@ theme: yilia
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https：//github.com/czgonroad/czgonroad.github.io.git
+  repo: https：//github.com/czgonroad/growithu.github.io.git
   branch: master
 
